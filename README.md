@@ -51,7 +51,7 @@ Paper Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it
 
 **React Hooks support**
 
-Paper Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it fully supports them. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If the are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
+Paper Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it fully supports them. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If there are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
 
 **HELPFUL LINKS**
 
