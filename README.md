@@ -45,7 +45,7 @@ If you want to get inspiration or just show something directly to your clients, 
 
 View [example pages here](https://demos.creative-tim.com/paper-kit-pro-react/#/presentation).
 
-**Reacr Hooks support**
+**React Hooks support**
 
 Paper Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it fully supports React Hooks.
 
