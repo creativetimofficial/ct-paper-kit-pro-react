@@ -1,4 +1,4 @@
-# [Paper Kit PRO React - Premium Bootstrap 4, React, React Hooks and Reactstrap UI Kit](https://demos.creative-tim.com/paper-kit-pro-react/#/presentation?ref=pkpr-github-readme) ![version](https://img.shields.io/badge/version-1.2.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-paper-kit-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-kit-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+# [Paper Kit PRO React - Premium Bootstrap 4, React, React Hooks and Reactstrap UI Kit](https://demos.creative-tim.com/paper-kit-pro-react/#/presentation?ref=pkpr-github-readme) ![version](https://img.shields.io/badge/version-1.3.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-paper-kit-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-paper-kit-pro-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Paper Kit React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-pro-react/opt_pkp_react_thumbnail.jpg)
 
@@ -45,13 +45,13 @@ If you want to get inspiration or just show something directly to your clients, 
 
 View [example pages here](https://demos.creative-tim.com/paper-kit-pro-react/#/presentation).
 
-**React Hooks support**
+**Reacr Hooks support**
 
 Paper Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it fully supports React Hooks.
 
 **React Hooks support**
 
-Paper Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it fully supports them. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If there are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
+Paper Kit React is built on top of Bootstrap 4 using React and Reactstrap, so it fully supports them. Most of the elements from the framework are re-designed to resemble sheets of paper and color pastels. If the are elements that we have not touched, they will gracefully fall back to the Bootstrap 4 default.
 
 **HELPFUL LINKS**
 
@@ -291,7 +291,7 @@ We use GitHub Issues as the official bug tracker for the Paper Kit 2. Here are s
 
 ## Licensing
 
-- Copyright 2020 Creative Tim (https://www.creative-tim.com/?ref=pkpr-github-readme)
+- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=pkpr-github-readme)
 
 [CHANGELOG]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE.md
