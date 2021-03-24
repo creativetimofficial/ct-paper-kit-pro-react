@@ -1,5 +1,49 @@
 # Change Log
 
+## [1.3.0] 2021-03-24
+### Bug fixing
+- https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues/9
+- https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues/7 (added more info in docs)
+- https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues/4
+- Changed the way we import images
+  - Old way: `require("path/to/imgae")`
+  - New way: `require("path/to/imgae").default`
+### Major style changes
+### Deleted components
+### Added components
+### Deleted dependencies
+- `react-photoswipe` (replaced by `react-photoswipe-gallery`)
+- `react-bootstrap-switch` (replaced by the simple Bootstrap Switch: https://reactstrap.github.io/components/form/#Custom-Inputs)
+- `react-tagsinput` (replaced by inner component - but the docs for this plugins still apply)
+- `react-google-maps` (replaced by simple Google Maps API)
+- `@types/googlemaps` (replaced by simple Google Maps API)
+- `@types/markerclustererplus` (replaced by simple Google Maps API)
+- `@types/react` (replaced by simple Google Maps API)
+### Added dependencies
+- `bootstrap@4.6.0`
+- `jquery@3.6.0` (Only to stop warnings from Bootstrap)
+- `react-photoswipe-gallery@1.3.4`
+- `photoswipe@4.1.3`
+### Updated dependencies
+```
+headroom.js       0.11.0   →   0.12.0
+moment            2.26.0   →   2.29.1
+node-sass         4.14.1   →    5.0.0
+nouislider        14.5.0   →   14.6.4
+react            16.13.1   →   17.0.2
+react-datetime    2.16.3   →    3.0.4
+react-dom        16.13.1   →   17.0.2
+react-scripts      3.4.1   →    4.0.3
+react-select       3.1.0   →    4.3.0
+reactstrap         8.4.1   →    8.9.0
+typescript         3.9.5   →    4.2.3
+```
+### Warning
+_When doing a clean install, you might have some warnings, those come from `node_modules` and do not affect the project in any way._
+_The following two error might occur while doing a clean install - They do not affect the product in any way:_
+_npm WARN react-datetime@3.0.4 requires a peer of react@^16.5.0 but none is installed. You must install peer dependencies yourself._
+_npm WARN @babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.13.12 requires a peer of @babel/core@^7.13.0 but none is installed. You must install peer dependencies yourself._
+
 ## [1.2.0] 2020-06-12
 ### Bug fixing
 - https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues/2
