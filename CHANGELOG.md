@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.3.1] 2022-08-19
+
+- Update the dependencies
+- Migration to React 18
+- Migration to sass from node-sass
+
 ## [1.3.0] 2021-03-24
 ### Bug fixing
 - https://github.com/creativetimofficial/ct-paper-kit-pro-react/issues/9
